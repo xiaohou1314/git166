@@ -1,5 +1,5 @@
 class aa{
 	public void main static{
-	
+		System.out.print("hello");
 	}
 }
