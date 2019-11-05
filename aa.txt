@@ -1,5 +1,8 @@
 class aa{
 	public void main static{
 		System.out.print("hello");
+	        public void add(){
+	        	System.out.print("eat");
+	        }
 	}
 }
